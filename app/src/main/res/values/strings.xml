@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Day2</string>
+    <string name="text_view_label">Login</string>
+    <string name="button_label">Login</string>
+    <string name="button2_label">SignUp</string>
+    <string name="password_hint">Enter password</string>
+    <string name="email_dec">Enter Email</string>
+    <string name="text_view2_label">SignUp</string>
+</resources>

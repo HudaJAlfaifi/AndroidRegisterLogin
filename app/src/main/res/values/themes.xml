@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Day2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Day2" parent="Base.Theme.Day2" />
+    <style name="CustomButtonStyle">
+        <item name="android:background">@drawable/custom_button_background</item> <!-- Use a custom background drawable -->
+        <item name="android:textColor">@android:color/white</item> <!-- Text color (white in this example) -->
+        <item name="android:textSize">18sp</item> <!-- Text size (adjust as needed) -->
+        <!-- You can add more styling attributes here if needed -->
+    </style>
+</resources>
